@@ -1,21 +1,3 @@
 # CARLINA-UPSKILLING-Administra-o-para-Linux-em-Cloud
 REPOSITORIO PARA EXERCICIOS DE CURSO UPSKILLING MODULO LINUX EM CLOUD
-COMANDOS UTILIZADOS PARA A TAREFA 1 
-Passo 1: mkdir linux-seguranca-cloud -criando a pasta principal.  
-Passo 2: cd linux-seguranca-cloud -entrar dentro da pasta linux-seguranca-cloud. 
-Passo 3:  mkdir topico-01- criar pasta dentro da pasta linux-seguranca-cloud.
-Passo 4: mkdir produto-final - criar pasta dentro de linux-seguranca-cloud.
-Passo 5: cd topico-01 - Entrando na pasta do Tópico 01
-Passo 6: mkdir evidencias -pasta criada dentro do tópico 01, 
-Passo 7: touch comandos-topico-01.txt - Cria o ficheiro de texto onde irá listar os comandos que utilizei.
-Passo 8: touch README.md cria o ficheiro de documentação (README).
-Passo 9: sai de topico-01 e linux-seguranca-cloud com o comando cd ../.. ;
-Tentei fazer a listagem com o comando ls -R linux—seguranca-cloud mas o resultado era so os nomes e não a estrutura.
-Então tentei com o comando tree linux-seguranca-cloud, mas esse pedia a instalação e me mostrou o comando para instalar (sudo apt install tree). Após a instalação executei o comando tree linux-seguranca-cloud e consegui. Os prints da tela a seguir:  
-
-
-Após esse passo passei a criação dos comandos para deixar gravados no ficheiro
- comandos-topico-01.txt
- 
-
-Depois passei a criação do ficheiro README.md 
+Neste topico e possivel ver os exercicios requistados durante o modulo linux e segurança cloud no curso upskilling. 
