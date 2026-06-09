@@ -1,0 +1,8 @@
+#principais comandos executados no terminal ubuntu#
+whoami: Identificou o utilizador com sessão ativa no terminal.
+hostname: Exibiu o nome de rede atribuído à máquina virtual.
+touch: comando utilizado para criar os ficheiros readme.md e comanods-topico-01.txt.
+uname -a: Mapeou a versão ativa do Kernel Linux e a arquitetura do processador (x86_64).
+mkdir: permitiu criar os directorios 
+cd: permitiu entrar nos directorios.
+tree : me mostrou a estrutura das pastas criadas e como estavam organizadas .
