@@ -1,7 +1,7 @@
 
 ##Principais  Comandos executados para a auditoria do Tópico 04:
 
-# 1. Verificar versão do Nginx:
+##1. Verificar versão do Nginx:
    nginx -v
 
  #2. Verificar portas e serviços ativos:
