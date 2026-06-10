@@ -1,0 +1,13 @@
+# Proposta de Hardening - Tópico 04
+
+## 1. Hardening do Sistema Operativo (Ubuntu)
+* **Atualizações de Segurança Automáticas:** Garantir que o sistema operacional, utilizar comando `sudo apt update && sudo apt upgrade -y`.
+* **Minimização de Serviços:** Desativar ou remover quaisquer serviços ou pacotes que não sejam estritamente necessários
+
+## 2. Hardening do Serviço SSH (Porta 22)
+* **Desativar o Acesso Direto como Root:** Alterar a diretiva no ficheiro `/etc/ssh/sshd_config` para `PermitRootLogin no`. Isto obriga a que a a>
+* **Autenticação por Chaves Criptográficas:** Substituir o login por password tradicional pelo uso de pares de chaves SSH (pública/privada), miti>
+
+## 3. Hardening do Servidor Web Nginx
+* **Ocultar a Versão do Servidor:** Ativar a diretiva `server_tokens off;` dentro do ficheiro de configuração principal do Nginx (`/etc/nginx/ngi>
+* **Restrição de Métodos HTTP:** Configurar o Nginx para aceitar apenas métodos seguros como `GET`, `HEAD` e `POST`, bloqueando requisições desne>
