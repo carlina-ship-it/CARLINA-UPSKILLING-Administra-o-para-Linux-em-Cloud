@@ -1,1 +1,19 @@
 
+##Principais  Comandos executados para a auditoria do Tópico 04:
+
+# 1. Verificar versão do Nginx:
+   nginx -v
+
+ #2. Verificar portas e serviços ativos:
+   sudo ss -tulnpx
+
+ #3. Verificar estado da Firewall:
+   sudo ufw status verbose
+
+ #4.Configuração e Ativação da Firewall (UFW):
+ sudo ufw allow 22/tcp
+ sudo ufw allow 80/tcp
+ sudo ufw enable
+ sudo ufw status verbose
+
+
