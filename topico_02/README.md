@@ -1,5 +1,6 @@
-Trabalho pratico indicidual topico 02
-Modulo linux e segurança cloud 
+Trabalho pratico 
+Individual topico 02
+Modulo linux e segurança cloud : Gestão de Identidades, Permissões e Acesso Remoto Seguro 
 Ambiente de Trabalho: Utilização do hipervisor Oracle VM VirtualBox executado no Ubuntu Linux, acedida localmente via Terminal.
 
 Comandos de Auditoria: 
