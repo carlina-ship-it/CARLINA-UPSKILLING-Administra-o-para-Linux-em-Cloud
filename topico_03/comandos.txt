@@ -1,1 +1,7 @@
 
+# Comandos principais utilizados
+* `mkdir  e cd ` - Para criar e entrar no diretório de trabalho.
+* `nano index.html` - Para criar e editar o código HTML da página.
+* `sudo apt update` e `sudo apt install nginx -y` - Para atualizar o sistema e instalar o servidor web Nginx.
+* `sudo cp index.html /var/www/html/index.html` - Para publicar a página no diretório padrão do servidor.
+* `sudo systemctl status nginx` - Para verificar o estado de funcionamento do serviço.
