@@ -1,1 +1,11 @@
+os comandos utilizados durante o trabalho pratico individual 05
+mkdir
+touch
+ls ls
+uptime
+free -h
+df -h
+systemctl status nginx
+journalctl -n 20
+
 
